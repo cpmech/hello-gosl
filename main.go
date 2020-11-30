@@ -1,6 +1,6 @@
 package main
 
-import "gosl/io"
+import "github.com/cpmech/gosl/io"
 
 func main() {
 	io.Pf("Hello Gosl (6031)!!!\n")
