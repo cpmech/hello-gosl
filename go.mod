@@ -1,3 +1,3 @@
 module main
 
-go 1.5
+go 1.17
